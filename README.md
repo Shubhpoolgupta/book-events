@@ -20,7 +20,7 @@
   <p align="center">
     Event booking web app
     <br />
-    <a href="https://github.com/Shubhpoolgupta/BookEvents.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shubhpoolgupta/book-events.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#">View Demo</a>
